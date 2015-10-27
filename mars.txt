@@ -2,3 +2,4 @@ Mars is covered by red dust
 1
 2
 3
+Mars has 2 moons.
