@@ -3,3 +3,4 @@ Mars is covered by red dust
 2
 3
 Mars has 2 moons.
+Surface temp -23C.
