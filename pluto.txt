@@ -2,8 +2,10 @@ Pluto
 
 Pluto is a dwarf planet.
 
-<<<<<<< HEAD
 Here is a test of merging.
-=======
+
 NB something
->>>>>>> df046e0a3a191a89ae5d37aceb8de247f3092675
+
+SOMETHINGELSE
+
+
