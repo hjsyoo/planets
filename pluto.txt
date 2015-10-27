@@ -1,1 +1,3 @@
 Pluto is a dwarf planet.
+
+Here is a test of merging.
